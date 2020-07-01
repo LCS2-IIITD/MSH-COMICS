@@ -22,5 +22,11 @@ The raw audio files for each utterance is provided in the Google drive folder. F
 
 ## Running the Code 
 
+Download the pre-trained [Fasttext](https://github.com/facebookresearch/fastText/blob/master/docs/pretrained-vectors.md) multilingual word embeddings anywhere in the directory.
+
+Extract the embedding matrix file to get the pickled version.
+
+Check for the configuration from the config.py file as per convinience.
+
 
 
