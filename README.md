@@ -18,7 +18,7 @@ We release the MaSaC dataset which is a multimodal Code-Mixed corpus(Hindi-Engli
   
 ## Raw Audios
   
-The raw audio files for each utterance is provided in the Google drive folder. For each utterence, the name structure for the audio files can be found in the "Audio_Filename.txt" file 
+The raw audio files for each utterance is provided in the Google drive folder. For each utterence, the name structure for the audio files can be found in the "Audio_Filename.txt" file. The episode wise dialogue information is also provided in the file "Episodewise_dialoguelabels.txt" to identify the set of dialogues, a particular utterance belongs to.
 
 
 
