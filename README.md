@@ -28,10 +28,12 @@ Extract the embedding matrix file to get the pickled version.
 
 Check for the configuration from the config.py file as per convinience.
 
-```javascript
+The audio features are already extracted and used as a pickle file.
 
-    thidds sss
-```    
+For training directly run:
+```javascript
+python Sarhum.py
+```
 
 
 
