@@ -7,12 +7,13 @@ We release the MaSaC dataset which is a multimodal Code-Mixed corpus(Hindi-Engli
 Data Format
 
 
-   #KEY                   #VALUE
-  Speaker          Speaker for the utterance
-  text             Utterance text to classify
-  Audio_features   Extracted mfcc features from audio file corresponding to the current utterance
-  Sarcasm          Binary label for sarcasm tag
-  Humour           Binary label for humour tag
+  |KEY           |          VALUE                                                                  |
+  |--------------|---------------------------------------------------------------------------------|
+  |Speaker       |   Speaker for the utterance                                                     |
+  |text          |   Utterance text to classify                                                    |
+  |Audio_features|   Extracted mfcc features from audio file corresponding to the current utterance|
+  |Sarcasm       |   Binary label for sarcasm tag                                                  |
+  |Humour        |   Binary label for humour tag                                                   |
 
 
 
