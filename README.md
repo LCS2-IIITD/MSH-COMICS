@@ -1,4 +1,4 @@
-# Multi-modal Sarcasm Detection and HumorClassification in Code-mixed Conversations
+# Multi-modal Sarcasm Detection and Humor Classification in Code-mixed Conversations
 
 This repository contains the dataset and code for our paper: Paper Link
 
