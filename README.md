@@ -24,13 +24,13 @@ The raw audio files for each utterance is provided in the Google drive folder. F
 
 Download the pre-trained [Fasttext](https://github.com/facebookresearch/fastText/blob/master/docs/pretrained-vectors.md) multilingual word embeddings anywhere in the directory.
 
-Extract the embedding matrix file to get the pickled version.
+Extract the ```embedding matrix.p``` file to get the pickled version.
 
-Check for the configuration from the config.py file as per convinience.
+Check for the configuration from the ```config.py``` file as per convinience.
 
 The audio features are already extracted and used as a pickle file.
 
-For training directly run:
+For running the configuration directly:
 ```javascript
 python Sarhum.py
 ```
