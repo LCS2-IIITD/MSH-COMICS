@@ -14,6 +14,11 @@ We release the MaSaC dataset which is a multimodal Code-Mixed corpus(Hindi-Engli
   |Audio_features|   Extracted mfcc features from audio file corresponding to the current utterance|
   |Sarcasm       |   Binary label for sarcasm tag                                                  |
   |Humour        |   Binary label for humour tag                                                   |
+  
+  
+## Raw Audios
+  
+The raw audio files for each utterance is provided in the Google drive folder. For each utterence, the name structure for the audio files can be found in the "Audio_Filename.txt" file 
 
 
 
