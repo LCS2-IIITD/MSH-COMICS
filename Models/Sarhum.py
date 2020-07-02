@@ -19,7 +19,9 @@ install('keras_self_attention')
 def install1(name):
     subprocess.call(['unzip', name])
 install1('embedding_matrix.zip')    
-
+def install2(name):
+    subprocess.call(['unzip', name])
+install2('/content/Sarcasm-master/Data/Pickles/d_features.zip')
 from keras_self_attention import SeqSelfAttention as Attention1
 
 import keras
