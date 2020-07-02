@@ -15,7 +15,10 @@ import subprocess
 
 def install(name):
     subprocess.call(['pip', 'install', name])
-install('keras_self_attention')    
+install('keras_self_attention')
+def install1(name):
+    subprocess.call(['unzip', name])
+install1('embedding_matrix.zip')    
 
 from keras_self_attention import SeqSelfAttention as Attention1
 
